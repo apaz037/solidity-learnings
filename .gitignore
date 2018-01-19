@@ -58,4 +58,4 @@ typings/
 .env
 
 ## solidity build files
-./build
+build
